@@ -8,3 +8,6 @@ true            // literal true boolean
 false           // literal false boolean
 /javascript/gi  // literal regular expression
 null            // literal null value
+
+[ 1, 2 ]        // literal array
+{ x: 1, y: 2 }  // literal object
