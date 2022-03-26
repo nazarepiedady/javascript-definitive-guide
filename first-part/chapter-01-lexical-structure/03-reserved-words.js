@@ -36,3 +36,16 @@ implements  let      private  protected  public  static yield
 interface   package  eval     arguments
 
 */
+
+// Some global function and names reserved through all JavaScript
+
+/*
+
+arguments   Array Boolean      Date         decodeURI  decodeURIComponent
+encodeURI   encodeURIComponent Error        eval       EvalError
+Infinity    isFinite           isNaN        JSON       Math
+Number      Object             parseFloat   parseInt   ReferenceError
+SyntaxError TypeError          undefined    URIError   Function
+NaN         RegExp             String       RangeError
+
+*/
