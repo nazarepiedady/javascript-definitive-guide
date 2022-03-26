@@ -13,3 +13,13 @@ debugger   finally  new         true     with
 default    for      null        try
 
 */
+
+// keywords since ECMAScript 5
+
+/*
+
+class       const    enum     export     extends import super
+implements  let      private  protected  public  static yield
+interface   package  eval     arguments
+
+*/
