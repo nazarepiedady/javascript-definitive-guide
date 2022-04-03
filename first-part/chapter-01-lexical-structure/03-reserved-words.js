@@ -41,11 +41,11 @@ interface   package  eval     arguments
 
 /*
 
-arguments   Array Boolean      Date         decodeURI  decodeURIComponent
+arguments   Array              Boolean      Date       decodeURI
 encodeURI   encodeURIComponent Error        eval       EvalError
 Infinity    isFinite           isNaN        JSON       Math
 Number      Object             parseFloat   parseInt   ReferenceError
 SyntaxError TypeError          undefined    URIError   Function
-NaN         RegExp             String       RangeError
+NaN         RegExp             String       RangeError decodeURIComponent
 
 */
