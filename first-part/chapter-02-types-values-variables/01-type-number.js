@@ -9,3 +9,6 @@ var deprecatedOctalInteger = 0337 // 255
 
 // integer with 8 or octal base (modern standard)
 var standardOctalInteger = 0o377 // 255
+
+// float in decimal base
+var decimalFloat = 12.24
