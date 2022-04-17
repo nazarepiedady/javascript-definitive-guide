@@ -6,3 +6,6 @@ var hexadecimalInteger = 0xff; // 255
 
 // integer with 8 or octal base (deprecated)
 var deprecatedOctalInteger = 0337 // 255
+
+// integer with 8 or octal base (modern standard)
+var standardOctalInteger = 0o377 // 255
